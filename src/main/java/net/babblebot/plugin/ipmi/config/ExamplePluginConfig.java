@@ -1,9 +1,9 @@
-package com.example.exampleplugin.config;
+package net.babblebot.plugin.ipmi.config;
 
 import lombok.Builder;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
-import net.bdavies.babblebot.api.plugins.PluginConfig;
+import net.babblebot.api.plugins.PluginConfig;
 
 /**
  * Edit me
